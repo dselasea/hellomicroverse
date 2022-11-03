@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 HTML & CSS
 ### Setup
-
+git clone <repocitory URL>
 ### Install
 
 ### Usage
@@ -46,12 +46,6 @@ HTML & CSS
 - GitHub: [@githubhandle](https://github.com/dselasea)
 - Twitter: [@twitterhandle](https://twitter.com/danielsanyidoho)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/danielsanyidoho)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
